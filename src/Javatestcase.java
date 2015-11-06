@@ -7,6 +7,7 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.Select;
 
+import org.testng.TestNG.*;
 public class Javatestcase {
   private WebDriver driver;
   private String baseUrl;

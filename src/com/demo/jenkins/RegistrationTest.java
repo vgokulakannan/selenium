@@ -22,7 +22,7 @@ public void testRegister(){
 WebDriver driver = new FirefoxDriver();
 
 
-driver.get("http://localhost:8080/HelloWorld/HelloWorld/WebContent/");
+driver.get("http://192.168.8.72:8080/HelloWorld/HelloWorld/WebContent/");
 driver.manage().window().maximize();
 driver.findElement(By.id("num1")).clear();
 driver.findElement(By.id("num1")).sendKeys("4");

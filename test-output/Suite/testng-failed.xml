@@ -5,7 +5,7 @@
     <classes>
       <class name="com.demo.jenkins.RegistrationTest">
         <methods>
-          <include name="testRegister"/>
+          <include name="main"/>
         </methods>
       </class> <!-- com.demo.jenkins.RegistrationTest -->
     </classes>
